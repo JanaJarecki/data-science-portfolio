@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,700;1,300;1,700&display=swap');
+
+$base-color: #363e9e;
+$light-color: #9197CF;
+
+
+
+body {
+  background-color: #fff;
+  padding:  50px;
+  font:   14px/1.5 'Source Serif Pro', Helvetica, Arial, sans-serif;
+  color:  #444;
+  font-weight: 300 !important;
+}
+
+a {
+    color: #363e9e;
+    text-decoration: none;
+}
