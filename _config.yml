@@ -1,10 +1,10 @@
 title: Jana Jarecki, PhD # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  <b>Data Scientist & Researcher</b>
+  <br>
+  Data scientist: finds answers to your questions using statistics and machine-learning. Experienced empirical researcher with a strong peer-reviewed publication record. Passionat project manager.
+  <br>
   <a href="www.linkedin.com/in/janajarecki">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
