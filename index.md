@@ -1,10 +1,11 @@
-## Portfolio
+## Browse my Project Portfolio
 
 ---
 
-### Category Name 1
+### Real-world Evidence (RWE) for Digital Health (COVID-19)
 
-[Project 1 Title](/sample_page)
+[RWE Analyses of Digital Health (COVID-19)](/sample_page)
+R, Python, Bayes
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
